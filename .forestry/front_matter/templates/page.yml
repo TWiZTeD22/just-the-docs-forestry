@@ -24,5 +24,7 @@ fields:
     required: false
   label: permalink
 pages:
+- docs/Ranges/OverTheWire/Bandit/bandit0.md
+- docs/Ranges/OverTheWire/Bandit/bandit1.md
 - docs/configuration/configuration.md
 - docs/navigation-structure.md
